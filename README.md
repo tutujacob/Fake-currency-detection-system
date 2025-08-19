@@ -1,4 +1,4 @@
-Project Title
+# Project Title
 # Fake currency detection system
 University of Juba 
 Department of computer science
